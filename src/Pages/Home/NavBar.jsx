@@ -48,7 +48,10 @@ function Navbar() {
   return (
     <nav className={`navbar ${navActive ? "active" : ""} ${scrolled ? "scrolled" : ""}`}>
       <div>
-        <img src="./img/cat2.svg" alt="Logoipsum" />
+        <img 
+          src="./logo.png" 
+    alt="Logoipsum" 
+    style={{ width: '50px', height: 'auto' }} />
       </div>
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}

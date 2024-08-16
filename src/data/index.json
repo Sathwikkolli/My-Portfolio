@@ -1,0 +1,60 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Crafting intuitive, visually appealing user experiences. Proficient in HTML, CSS, JavaScript, React, and creating responsive, accessible websites."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Building dynamic web applications with Node.js, Express.js, and EJS. Experienced in server-side logic, API development, and database integration."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "AI and Machine Learning",
+      "description": "Building intelligent systems. Proficient in Python, machine learning frameworks, and natural language processing."
+    }
+  ],
+  
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/bandname2.jpg",
+        "title": "Band Name Generator",
+        "description": "This project is a web application that generates random band names by combining random adjectives and nouns.",
+        "link": "View In Github",
+        "githubLink": "https://github.com/Sathwikkolli/Band-Name-Generator"
+      },
+      {
+        "id": "2",
+        "src": "./img/mentorconnect.jpg",
+        "title": "Mentor Connect (on-going)",
+        "description": "Bridging the gap between aspiring minds and experienced mentors using Flutter.",
+        "link": "View In Github",
+        "githubLink": "https://github.com/Sathwikkolli/Mentor-Connect"
+      },
+      {
+        "id": "3",
+        "src": "./img/diseaseprediction.jpg",
+        "title": "Disease Prediction",
+        "description": "Developed predictive models for disease detection using Scikit-learn. Employed decision trees, random forests, and logistic regression.",
+        "link": "View In Github",
+        "githubLink": "https://github.com/Sathwikkolli/Disease-Prediction"
+      }
+    ],
+    "HeroSection": [
+      {
+        "id": "1",
+        "backgroundVideo": "./img/video1.mp4",
+        "title": "Hey, I'm Sathwik Kolli",
+        "titleColor": "#ffffff"
+      }
+    ]
+    
+  }
+  
+

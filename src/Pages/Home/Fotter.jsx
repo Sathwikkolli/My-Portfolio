@@ -73,7 +73,7 @@ function Footer() {
                 to="testimonial"
                 className="text-md"
               >
-                Testimonials
+      
               </Link>
             </li>
           </ul>
@@ -212,7 +212,7 @@ function Footer() {
                 to="Cookies_Settings"
                 className="text-sm"
               >
-                Cookies Settings
+      
               </Link>
             </li>
           </ul>
